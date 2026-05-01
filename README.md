@@ -8,6 +8,8 @@ make run
 ```
 You'll need QEMU and NASM.
 
+If it doesn't work, try compiling it again.
+
 # Supported Commands
 `clear` - Clears the terminal
 
