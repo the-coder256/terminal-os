@@ -1,5 +1,5 @@
 # Terminal OS
-A small OS I made. Yeah that's it.
+A small OS I ~~made~~ vibecoded. Yeah that's it.
 
 # How to Compile
 ```
